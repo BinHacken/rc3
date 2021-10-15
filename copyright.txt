@@ -1,0 +1,21 @@
+This Tilesets were used:
+
+for map island:
+farming_fisching: license unknown, https://opengameart.org/content/farming-tilesets-magic-animations-and-ui-elements
+mapUtilities: license unknows, from rc3
+micetower: own work
+pipo: https://pipoya.itch.io/pipoya-rpg-tileset-32x32, For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions.
+food_and-drinks_cert: CC-BY-SA von CERT (cert.ccc.de) (*)
+
+for map micetower:
+-
+
+for map binhacken:
+-
+
+(*) CC-BY-SA
+Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-sa/4.0/.
+
+
+(**) CC-BY
+Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung 3.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by/3.0/.
