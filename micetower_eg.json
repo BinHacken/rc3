@@ -212,6 +212,12 @@
          "id":50,
          "name":"start_og",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":8,
@@ -224,6 +230,12 @@
          "id":52,
          "name":"start_ug",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":8,
