@@ -1,17 +1,27 @@
 This Tilesets were used:
 
-for map island:
-farming_fisching: license unknown, https://opengameart.org/content/farming-tilesets-magic-animations-and-ui-elements
-mapUtilities: license unknows, from rc3
-micetower: own work
-pipo: https://pipoya.itch.io/pipoya-rpg-tileset-32x32, For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions.
+active-cave: c0c0bird, license unknown, distributed by the r2r-Team
+cert_safety: CC-BY-SA von CERT (cert.ccc.de) (*)
+divoc-functional: Mullana, published under CC0
+doors: CC-BY-SA von CERT (cert.ccc.de) (*)
+dungeon: https://opengameart.org/content/dungeon-tileset-4, Public Domain
+ever_given: see description below (***)
+farming_fisching: https://opengameart.org/content/farming-tilesets-magic-animations-and-ui-elements
+floortileset: license unknown, distributed with the workadventure starterkit
 food_and-drinks_cert: CC-BY-SA von CERT (cert.ccc.de) (*)
-
-for map micetower:
--
-
-for map binhacken:
--
+magecity_by_hyptosis: https://opengameart.org/content/mage-city-arcanos, public domain
+mapUtilities: license unknows, from rc3
+misc: CC-BY-SA von CERT (cert.ccc.de) (*)
+pipo: https://pipoya.itch.io/pipoya-rpg-tileset-32x32, For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions.
+rc3_mullana_floor-wall: Mullana, published under CC0
+rc3_mullana_functionary: Mullana, published under CC0
+rc3_mullana_neon-signs: Mullana, published under CC0
+rc3_mullana_objects: Mullana, published under CC0
+rc3_mullana_overlay: Mullana, published under CC0
+rc3_mullana_stars: Mullana, published under CC0
+tilesets_deviaant_milkian_1 (ofice_1): deviantart.com/milkian, license unknown, distributed with the workadventure starterkit
+voirol: https://opengameart.org/content/basic-map-32x32-by-ivan-voirol, CC-BY von Ivan Voirol (**)
+binhacken: (***)
 
 (*) CC-BY-SA
 Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-sa/4.0/.
@@ -19,3 +29,6 @@ Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weiterga
 
 (**) CC-BY
 Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung 3.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by/3.0/.
+
+(***)
+Das Tileset binhacken ist eine bunte Mischung aus selbst gepixelt, selbst geschossenen Fotos, Logos, Schriftzügen und Anpassungen von fremden Werken.  
