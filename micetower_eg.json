@@ -8,14 +8,15 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":14,
  "infinite":false,
  "layers":[
         {
-         "data":[4399, 4400, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399, 4338, 4339, 4459, 4460, 4458, 4459, 4460, 4458, 4459, 4460, 4458, 4459, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4338, 4339, 4340, 4338, 4339, 4340, 4338, 4339, 4340, 4338, 4339, 4459, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399],
+         "data":[7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 6729, 7107, 7107, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 6729, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 38, 38, 38, 38, 38, 38, 38, 38, 7107, 7107, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 6729, 7107, 7107, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 7100, 6729, 7107, 7107],
          "height":14,
          "id":51,
          "name":"floor",
@@ -27,7 +28,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 4665, 0, 0, 0, 0, 4345, 4346, 0, 4664, 0, 0, 0, 0, 0, 0, 0, 0, 4405, 4406, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 1610616384, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 4468, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 4665, 0, 12, 12, 12, 12, 0, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 4783, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 4723, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 4725, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4783, 0, 0, 0, 0, 4783, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 1610620210, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 0, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":37,
          "name":"walls",
@@ -39,7 +40,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2542, 2542, 2543, 0, 0, 3616, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3624, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3817, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3608, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7442, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7450, 0, 0, 0, 0, 0, 589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7643, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":2,
          "name":"elemente",
@@ -63,7 +64,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":55,
          "name":"elemente3",
@@ -98,7 +99,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 3808, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 7634, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":45,
          "name":"override2",
@@ -110,11 +111,17 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3809, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7635, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":7,
          "name":"tree_override",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"depth",
+                 "type":"int",
+                 "value":3
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":12,
@@ -141,7 +148,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"micetower_og.json"
                 }],
@@ -159,7 +166,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"micetower_ug.json"
                 }],
@@ -177,7 +184,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"island.json#start_micetower"
                 }],
@@ -239,7 +246,7 @@
  "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -250,12 +257,6 @@
          "imagewidth":256,
          "margin":0,
          "name":"dungeon",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"Public Domain"
-                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -270,12 +271,6 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC0"
-                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -288,6 +283,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -295,17 +299,39 @@
         {
          "columns":16,
          "firstgid":74,
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":330,
+         "image":"divoc-functional.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"divoc-functional",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":586,
          "image":"cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC-BY-SA von CERT (cert.ccc.de)"
-                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -314,18 +340,26 @@
         }, 
         {
          "columns":16,
-         "firstgid":1098,
+         "firstgid":1610,
+         "image":"doors.png",
+         "imageheight":2048,
+         "imagewidth":512,
+         "margin":0,
+         "name":"doors",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":2634,
          "image":"food_and_drinks_cert.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks_cert",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC-BY-SA von CERT (cert.ccc.de)"
-                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -334,18 +368,12 @@
         }, 
         {
          "columns":16,
-         "firstgid":2122,
+         "firstgid":3658,
          "image":"misc.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"misc",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC-BY-SA von CERT (cert.ccc.de)"
-                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -375,18 +403,12 @@
         }, 
         {
          "columns":16,
-         "firstgid":3146,
+         "firstgid":4682,
          "image":"rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC0 - Mullana"
-                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -395,18 +417,602 @@
         }, 
         {
          "columns":8,
-         "firstgid":3274,
+         "firstgid":4810,
+         "image":"magecity_by_hyptosis.png",
+         "imageheight":1450,
+         "imagewidth":256,
+         "margin":0,
+         "name":"magecity_by_hyptosis",
+         "spacing":0,
+         "tilecount":360,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":5170,
+         "image":"binhacken.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"binhacken",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":19,
+         "firstgid":5426,
+         "image":"Ever_Given.png",
+         "imageheight":160,
+         "imagewidth":615,
+         "margin":0,
+         "name":"Ever_Given",
+         "spacing":0,
+         "tilecount":95,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":23,
+         "firstgid":5521,
+         "image":"voirol.png",
+         "imageheight":928,
+         "imagewidth":736,
+         "margin":0,
+         "name":"voirol",
+         "spacing":0,
+         "tilecount":667,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":486
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":496
+                        }],
+                 "id":486
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":532
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":542
+                        }],
+                 "id":532
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":534
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":544
+                        }],
+                 "id":534
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":64,
+         "firstgid":6188,
+         "image":"[A]Water2_pipo.png",
+         "imageheight":192,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"[A]Water2_pipo",
+         "spacing":0,
+         "tilecount":384,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":5
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":13
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":21
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":29
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":37
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":45
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":53
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":61
+                        }],
+                 "id":5
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":6
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":14
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":22
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":30
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":38
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":46
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":54
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":62
+                        }],
+                 "id":6
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":7
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":15
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":23
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":39
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":47
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":55
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":63
+                        }],
+                 "id":7
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":69
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":77
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":85
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":93
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":101
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":109
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":117
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":125
+                        }],
+                 "id":69
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":70
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":78
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":86
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":94
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":102
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":110
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":118
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":126
+                        }],
+                 "id":70
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":71
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":79
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":87
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":95
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":103
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":111
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":119
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":127
+                        }],
+                 "id":71
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":133
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":141
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":149
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":157
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":165
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":173
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":181
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":189
+                        }],
+                 "id":133
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":134
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":142
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":150
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":158
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":166
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":174
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":182
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":190
+                        }],
+                 "id":134
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":135
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":143
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":151
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":159
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":167
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":175
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":183
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":191
+                        }],
+                 "id":135
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":196
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":204
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":212
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":220
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":228
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":236
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":244
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":252
+                        }],
+                 "id":196
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":197
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":205
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":213
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":221
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":229
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":237
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":245
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":253
+                        }],
+                 "id":197
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":260
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":268
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":276
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":284
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":292
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":300
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":308
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":316
+                        }],
+                 "id":260
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":261
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":269
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":277
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":285
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":293
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":301
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":309
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":317
+                        }],
+                 "id":261
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":6572,
+         "image":"[A]Grass_pipo.png",
+         "imageheight":2112,
+         "imagewidth":256,
+         "margin":0,
+         "name":"[A]Grass_pipo",
+         "spacing":0,
+         "tilecount":528,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":7100,
          "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
-                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -414,27 +1020,35 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":60,
-         "firstgid":4338,
-         "image":"rc3-2021-mullana-ground.png",
-         "imageheight":1920,
-         "imagewidth":1920,
+         "columns":20,
+         "firstgid":8164,
+         "image":"farming_fishing.png",
+         "imageheight":640,
+         "imagewidth":640,
          "margin":0,
-         "name":"rc3-2021-mullana-ground",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC0 - Mullana"
-                }],
+         "name":"farming_fishing",
          "spacing":0,
-         "tilecount":3600,
+         "tilecount":400,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":3,
+         "firstgid":8564,
+         "image":"micetower.png",
+         "imageheight":224,
+         "imagewidth":96,
+         "margin":0,
+         "name":"micetower",
+         "spacing":0,
+         "tilecount":21,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":12
 }
