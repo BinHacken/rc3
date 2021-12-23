@@ -186,9 +186,37 @@
          "width":42,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":45,
+         "name":"badge",
+         "objects":[
+                {
+                 "height":93.5,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":95,
+                 "x":33,
+                 "y":1089.5
+                }],
+         "opacity":0,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"Yk6Y3pcnTv0ti9wz6Tlns51SKg1GsflvRsnUA66yCdJ8eoqbUS"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":45,
- "nextobjectid":9,
+ "nextlayerid":46,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
