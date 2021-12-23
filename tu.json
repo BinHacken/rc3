@@ -218,6 +218,12 @@
  "nextlayerid":46,
  "nextobjectid":10,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Da f\u00fcr diese Karte CC-BY-SA-Elemente genutzt wurden, muss die Karte als ganzes wohl ebenfalls unter dieser Lizenz stehen. Aber ganz ehrlich: I don't care. Beachte die Lizenzen der einzelnen Tilesets, f\u00fcr alles andere gilt: Do what you want, but think about the omen. Or don't think about the omen. I really dont't f**** care."
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
