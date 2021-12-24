@@ -174,23 +174,23 @@
          "name":"badge",
          "objects":[
                 {
-                 "height":93.5,
+                 "height":96,
                  "id":9,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Yk6Y3pcnTv0ti9wz6Tlns51SKg1GsflvRsnUA66yCdJ8eoqbUS"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":95,
-                 "x":33,
-                 "y":1089.5
+                 "width":96,
+                 "x":32,
+                 "y":1088
                 }],
          "opacity":0,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"Yk6Y3pcnTv0ti9wz6Tlns51SKg1GsflvRsnUA66yCdJ8eoqbUS"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
