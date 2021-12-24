@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tdh\/tdh1.html"
+                 "value":"https:\/\/binhacken.de\/rc3\/tdh\/tdh1.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -332,12 +332,6 @@
                  "y":320
                 }],
          "opacity":0,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"vy1LMw2rgZAiBQtgUnRJK71PwXk1Sm9AXSyHLvlj7IILoRHvBh"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -8808,16 +8802,6 @@
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
