@@ -8776,6 +8776,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"weresdaraufanlegt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
