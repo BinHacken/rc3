@@ -484,6 +484,27 @@
  "nextlayerid":77,
  "nextobjectid":9,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Da f\u00fcr diese Karte CC-BY-SA-Elemente genutzt wurden, muss die Karte als ganzes wohl ebenfalls unter dieser Lizenz stehen. Aber ganz ehrlich: I don't care. Beachte die Lizenzen der einzelnen Tilesets, f\u00fcr alles andere gilt: Do what you want, but think about the omen. Or don't think about the omen. I really dont't f**** care."
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"this map is part of a maze"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/binhacken\/rc3"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"\/bin\/hacken - micetower_ug2"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -622,11 +643,11 @@
         {
          "columns":8,
          "firstgid":3146,
-         "image":"[Base]BaseChip_pipo.png",
-         "imageheight":4256,
+         "image":"pipo_base_1.png",
+         "imageheight":1152,
          "imagewidth":256,
          "margin":0,
-         "name":"[Base]BaseChip_pipo",
+         "name":"pipo_base_1",
          "properties":[
                 {
                  "name":"tilesetCopyright",
@@ -634,7 +655,27 @@
                  "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
                 }],
          "spacing":0,
-         "tilecount":1064,
+         "tilecount":288,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":3434,
+         "image":"pipo_base_2.png",
+         "imageheight":1216,
+         "imagewidth":256,
+         "margin":0,
+         "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
+                }],
+         "spacing":0,
+         "tilecount":304,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"

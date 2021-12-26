@@ -15,7 +15,7 @@
  "infinite":false,
  "layers":[
         {
-         "data":[4399, 4400, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399, 4338, 4339, 4459, 4460, 4458, 4459, 4460, 4458, 4459, 4460, 4458, 4459, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4400, 38, 38, 38, 38, 38, 38, 38, 38, 4338, 4339, 4459, 4460, 38, 38, 38, 38, 38, 38, 38, 38, 4398, 4399, 4339, 4340, 38, 38, 38, 38, 38, 38, 38, 38, 4458, 4459, 4399, 4338, 4339, 4340, 4338, 4339, 4340, 4338, 4339, 4340, 4338, 4339, 4459, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399, 4400, 4398, 4399],
+         "data":[3335, 3336, 3334, 3335, 3336, 3334, 3335, 3336, 3334, 3335, 3274, 3275, 3395, 3396, 3394, 3395, 3396, 3394, 3395, 3396, 3394, 3395, 3334, 3335, 3275, 3276, 38, 38, 38, 38, 38, 38, 38, 38, 3394, 3395, 3335, 3336, 38, 38, 38, 38, 38, 38, 38, 38, 3274, 3275, 3395, 3396, 38, 38, 38, 38, 38, 38, 38, 38, 3334, 3335, 3275, 3276, 38, 38, 38, 38, 38, 38, 38, 38, 3394, 3395, 3335, 3336, 38, 38, 38, 38, 38, 38, 38, 38, 3274, 3275, 3395, 3396, 38, 38, 38, 38, 38, 38, 38, 38, 3334, 3335, 3275, 3276, 38, 38, 38, 38, 38, 38, 38, 38, 3394, 3395, 3335, 3336, 38, 38, 38, 38, 38, 38, 38, 38, 3274, 3275, 3395, 3396, 38, 38, 38, 38, 38, 38, 38, 38, 3334, 3335, 3275, 3276, 38, 38, 38, 38, 38, 38, 38, 38, 3394, 3395, 3335, 3274, 3275, 3276, 3274, 3275, 3276, 3274, 3275, 3276, 3274, 3275, 3395, 3334, 3335, 3336, 3334, 3335, 3336, 3334, 3335, 3336, 3334, 3335],
          "height":14,
          "id":51,
          "name":"floor",
@@ -27,7 +27,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 4665, 0, 0, 0, 0, 4345, 4346, 0, 4664, 0, 0, 0, 0, 0, 0, 0, 0, 4405, 4406, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 4468, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 4665, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 4783, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 4723, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 4725, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4783, 0, 0, 0, 0, 4783, 0],
+         "data":[0, 0, 0, 0, 0, 3601, 0, 0, 0, 0, 3281, 3282, 0, 3600, 0, 0, 0, 0, 0, 0, 0, 0, 3341, 3342, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 3404, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 3601, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 3719, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12, 0, 3659, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 3661, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3719, 0, 0, 0, 0, 3719, 0],
          "height":14,
          "id":37,
          "name":"walls",
@@ -39,7 +39,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3617, 0, 91, 0, 78, 0, 0, 0, 0, 0, 0, 0, 3625, 0, 0, 0, 0, 3608, 0, 0, 0, 0, 0, 0, 91, 90, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7217, 0, 91, 0, 78, 0, 0, 0, 0, 0, 0, 0, 7225, 0, 0, 0, 0, 7208, 0, 0, 0, 0, 0, 0, 91, 90, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":2,
          "name":"elemente",
@@ -166,6 +166,27 @@
  "nextlayerid":56,
  "nextobjectid":9,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Da f\u00fcr diese Karte CC-BY-SA-Elemente genutzt wurden, muss die Karte als ganzes wohl ebenfalls unter dieser Lizenz stehen. Aber ganz ehrlich: I don't care. Beachte die Lizenzen der einzelnen Tilesets, f\u00fcr alles andere gilt: Do what you want, but think about the omen. Or don't think about the omen. I really dont't f**** care."
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"this map represents the first floor of the mice tower"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/binhacken\/rc3"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"\/bin\/hacken - micetower_og"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -322,28 +343,8 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":8,
-         "firstgid":3274,
-         "image":"[Base]BaseChip_pipo.png",
-         "imageheight":4256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"[Base]BaseChip_pipo",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
-                }],
-         "spacing":0,
-         "tilecount":1064,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
          "columns":60,
-         "firstgid":4338,
+         "firstgid":3274,
          "image":"rc3-2021-mullana-ground.png",
          "imageheight":1920,
          "imagewidth":1920,
@@ -357,6 +358,46 @@
                 }],
          "spacing":0,
          "tilecount":3600,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":6874,
+         "image":"pipo_base_1.png",
+         "imageheight":1152,
+         "imagewidth":256,
+         "margin":0,
+         "name":"pipo_base_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
+                }],
+         "spacing":0,
+         "tilecount":288,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":7162,
+         "image":"pipo_base_2.png",
+         "imageheight":1216,
+         "imagewidth":256,
+         "margin":0,
+         "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions - Pipoya"
+                }],
+         "spacing":0,
+         "tilecount":304,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"

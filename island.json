@@ -241,12 +241,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"island represents the micetower-island, a part of the city of Bingen am Rhein. In the south of the islanfd is a ship waiting for you to bring you back to the city, in te east is the mice tower."
+         "value":"island represents the micetower-island, a part of the city of Bingen am Rhein. In the south of the island is a ship waiting for you to bring you back to the city, in the east is the mice tower."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/binhacken\/rc3"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"island.json"
+         "value":"\/bin\/hacken - island"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
